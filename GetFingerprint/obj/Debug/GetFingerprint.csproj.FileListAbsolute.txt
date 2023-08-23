@@ -1,0 +1,12 @@
+C:\Users\WKOAEZF\Desktop\GIT\Csharp-programovani\GetFingerprint\bin\Debug\GetFingerprint.exe.config
+C:\Users\WKOAEZF\Desktop\GIT\Csharp-programovani\GetFingerprint\bin\Debug\GetFingerprint.exe.manifest
+C:\Users\WKOAEZF\Desktop\GIT\Csharp-programovani\GetFingerprint\bin\Debug\GetFingerprint.application
+C:\Users\WKOAEZF\Desktop\GIT\Csharp-programovani\GetFingerprint\bin\Debug\GetFingerprint.exe
+C:\Users\WKOAEZF\Desktop\GIT\Csharp-programovani\GetFingerprint\bin\Debug\GetFingerprint.pdb
+C:\Users\WKOAEZF\Desktop\GIT\Csharp-programovani\GetFingerprint\obj\Debug\GetFingerprint.csproj.AssemblyReference.cache
+C:\Users\WKOAEZF\Desktop\GIT\Csharp-programovani\GetFingerprint\obj\Debug\GetFingerprint.csproj.SuggestedBindingRedirects.cache
+C:\Users\WKOAEZF\Desktop\GIT\Csharp-programovani\GetFingerprint\obj\Debug\GetFingerprint.csproj.CoreCompileInputs.cache
+C:\Users\WKOAEZF\Desktop\GIT\Csharp-programovani\GetFingerprint\obj\Debug\GetFingerprint.exe.manifest
+C:\Users\WKOAEZF\Desktop\GIT\Csharp-programovani\GetFingerprint\obj\Debug\GetFingerprint.application
+C:\Users\WKOAEZF\Desktop\GIT\Csharp-programovani\GetFingerprint\obj\Debug\GetFingerprint.exe
+C:\Users\WKOAEZF\Desktop\GIT\Csharp-programovani\GetFingerprint\obj\Debug\GetFingerprint.pdb

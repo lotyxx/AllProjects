@@ -1,0 +1,15 @@
+C:\Users\forki\source\repos\nacteniObrazku\nacteniObrazku\bin\Release\netstandard2.0\playingCube.deps.json
+C:\Users\forki\source\repos\nacteniObrazku\nacteniObrazku\bin\Release\netstandard2.0\playingCube.dll
+C:\Users\forki\source\repos\nacteniObrazku\nacteniObrazku\bin\Release\netstandard2.0\playingCube.pdb
+C:\Users\forki\source\repos\nacteniObrazku\nacteniObrazku\obj\Release\netstandard2.0\playingCube.csproj.AssemblyReference.cache
+C:\Users\forki\source\repos\nacteniObrazku\nacteniObrazku\obj\Release\netstandard2.0\playingCube.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\forki\source\repos\nacteniObrazku\nacteniObrazku\obj\Release\netstandard2.0\App.xaml.g.cs
+C:\Users\forki\source\repos\nacteniObrazku\nacteniObrazku\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\forki\source\repos\nacteniObrazku\nacteniObrazku\obj\Release\netstandard2.0\playingCube.AssemblyInfoInputs.cache
+C:\Users\forki\source\repos\nacteniObrazku\nacteniObrazku\obj\Release\netstandard2.0\playingCube.AssemblyInfo.cs
+C:\Users\forki\source\repos\nacteniObrazku\nacteniObrazku\obj\Release\netstandard2.0\playingCube.csproj.CoreCompileInputs.cache
+C:\Users\forki\source\repos\nacteniObrazku\nacteniObrazku\obj\Release\netstandard2.0\XamlC.stamp
+C:\Users\forki\source\repos\nacteniObrazku\nacteniObrazku\obj\Release\netstandard2.0\playingCube.dll
+C:\Users\forki\source\repos\nacteniObrazku\nacteniObrazku\obj\Release\netstandard2.0\refint\playingCube.dll
+C:\Users\forki\source\repos\nacteniObrazku\nacteniObrazku\obj\Release\netstandard2.0\playingCube.pdb
+C:\Users\forki\source\repos\nacteniObrazku\nacteniObrazku\obj\Release\netstandard2.0\ref\playingCube.dll

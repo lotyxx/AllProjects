@@ -1,0 +1,12 @@
+C:\Users\WKOAEZF\Desktop\GIT\Csharp-programovani\StartSearchingFiles\bin\Debug\StartSearchingFiles.exe.config
+C:\Users\WKOAEZF\Desktop\GIT\Csharp-programovani\StartSearchingFiles\bin\Debug\StartSearchingFiles.exe.manifest
+C:\Users\WKOAEZF\Desktop\GIT\Csharp-programovani\StartSearchingFiles\bin\Debug\StartSearchingFiles.application
+C:\Users\WKOAEZF\Desktop\GIT\Csharp-programovani\StartSearchingFiles\bin\Debug\StartSearchingFiles.exe
+C:\Users\WKOAEZF\Desktop\GIT\Csharp-programovani\StartSearchingFiles\bin\Debug\StartSearchingFiles.pdb
+C:\Users\WKOAEZF\Desktop\GIT\Csharp-programovani\StartSearchingFiles\obj\Debug\StartSearchingFiles.csproj.AssemblyReference.cache
+C:\Users\WKOAEZF\Desktop\GIT\Csharp-programovani\StartSearchingFiles\obj\Debug\StartSearchingFiles.csproj.SuggestedBindingRedirects.cache
+C:\Users\WKOAEZF\Desktop\GIT\Csharp-programovani\StartSearchingFiles\obj\Debug\StartSearchingFiles.csproj.CoreCompileInputs.cache
+C:\Users\WKOAEZF\Desktop\GIT\Csharp-programovani\StartSearchingFiles\obj\Debug\StartSearchingFiles.exe.manifest
+C:\Users\WKOAEZF\Desktop\GIT\Csharp-programovani\StartSearchingFiles\obj\Debug\StartSearchingFiles.application
+C:\Users\WKOAEZF\Desktop\GIT\Csharp-programovani\StartSearchingFiles\obj\Debug\StartSearchingFiles.exe
+C:\Users\WKOAEZF\Desktop\GIT\Csharp-programovani\StartSearchingFiles\obj\Debug\StartSearchingFiles.pdb

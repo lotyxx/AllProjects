@@ -1,0 +1,8 @@
+C:\Users\forki\OneDrive\Desktop\C#GIT\Csharp-programovani\praceSeSoubory\PraceSeSoubory\bin\Debug\PraceSeSoubory.exe.config
+C:\Users\forki\OneDrive\Desktop\C#GIT\Csharp-programovani\praceSeSoubory\PraceSeSoubory\bin\Debug\PraceSeSoubory.exe
+C:\Users\forki\OneDrive\Desktop\C#GIT\Csharp-programovani\praceSeSoubory\PraceSeSoubory\bin\Debug\PraceSeSoubory.pdb
+C:\Users\forki\OneDrive\Desktop\C#GIT\Csharp-programovani\praceSeSoubory\PraceSeSoubory\obj\Debug\PraceSeSoubory.csproj.AssemblyReference.cache
+C:\Users\forki\OneDrive\Desktop\C#GIT\Csharp-programovani\praceSeSoubory\PraceSeSoubory\obj\Debug\PraceSeSoubory.csproj.SuggestedBindingRedirects.cache
+C:\Users\forki\OneDrive\Desktop\C#GIT\Csharp-programovani\praceSeSoubory\PraceSeSoubory\obj\Debug\PraceSeSoubory.csproj.CoreCompileInputs.cache
+C:\Users\forki\OneDrive\Desktop\C#GIT\Csharp-programovani\praceSeSoubory\PraceSeSoubory\obj\Debug\PraceSeSoubory.exe
+C:\Users\forki\OneDrive\Desktop\C#GIT\Csharp-programovani\praceSeSoubory\PraceSeSoubory\obj\Debug\PraceSeSoubory.pdb

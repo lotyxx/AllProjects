@@ -1,0 +1,8 @@
+C:\Users\forki\OneDrive\Desktop\C#GIT\Csharp-programovani\ulohaNakladautaOop\bin\Debug\ulohaNakladautaOop.exe.config
+C:\Users\forki\OneDrive\Desktop\C#GIT\Csharp-programovani\ulohaNakladautaOop\bin\Debug\ulohaNakladautaOop.exe
+C:\Users\forki\OneDrive\Desktop\C#GIT\Csharp-programovani\ulohaNakladautaOop\bin\Debug\ulohaNakladautaOop.pdb
+C:\Users\forki\OneDrive\Desktop\C#GIT\Csharp-programovani\ulohaNakladautaOop\obj\Debug\ulohaNakladautaOop.csproj.AssemblyReference.cache
+C:\Users\forki\OneDrive\Desktop\C#GIT\Csharp-programovani\ulohaNakladautaOop\obj\Debug\ulohaNakladautaOop.csproj.SuggestedBindingRedirects.cache
+C:\Users\forki\OneDrive\Desktop\C#GIT\Csharp-programovani\ulohaNakladautaOop\obj\Debug\ulohaNakladautaOop.csproj.CoreCompileInputs.cache
+C:\Users\forki\OneDrive\Desktop\C#GIT\Csharp-programovani\ulohaNakladautaOop\obj\Debug\ulohaNakladautaOop.exe
+C:\Users\forki\OneDrive\Desktop\C#GIT\Csharp-programovani\ulohaNakladautaOop\obj\Debug\ulohaNakladautaOop.pdb

@@ -1,0 +1,8 @@
+C:\Users\forki\OneDrive\Desktop\C#GIT\Csharp-programovani\DomaciUkolObjekt1\DomaciUkolObjekt1\bin\Debug\DomaciUkolObjekt1.exe.config
+C:\Users\forki\OneDrive\Desktop\C#GIT\Csharp-programovani\DomaciUkolObjekt1\DomaciUkolObjekt1\bin\Debug\DomaciUkolObjekt1.exe
+C:\Users\forki\OneDrive\Desktop\C#GIT\Csharp-programovani\DomaciUkolObjekt1\DomaciUkolObjekt1\bin\Debug\DomaciUkolObjekt1.pdb
+C:\Users\forki\OneDrive\Desktop\C#GIT\Csharp-programovani\DomaciUkolObjekt1\DomaciUkolObjekt1\obj\Debug\DomaciUkolObjekt1.csproj.AssemblyReference.cache
+C:\Users\forki\OneDrive\Desktop\C#GIT\Csharp-programovani\DomaciUkolObjekt1\DomaciUkolObjekt1\obj\Debug\DomaciUkolObjekt1.csproj.SuggestedBindingRedirects.cache
+C:\Users\forki\OneDrive\Desktop\C#GIT\Csharp-programovani\DomaciUkolObjekt1\DomaciUkolObjekt1\obj\Debug\DomaciUkolObjekt1.csproj.CoreCompileInputs.cache
+C:\Users\forki\OneDrive\Desktop\C#GIT\Csharp-programovani\DomaciUkolObjekt1\DomaciUkolObjekt1\obj\Debug\DomaciUkolObjekt1.exe
+C:\Users\forki\OneDrive\Desktop\C#GIT\Csharp-programovani\DomaciUkolObjekt1\DomaciUkolObjekt1\obj\Debug\DomaciUkolObjekt1.pdb

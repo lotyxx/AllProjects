@@ -1,0 +1,15 @@
+C:\Users\forki\source\repos\nacteniObrazku\nacteniObrazku\bin\Debug\netstandard2.0\nacteniObrazku.deps.json
+C:\Users\forki\source\repos\nacteniObrazku\nacteniObrazku\bin\Debug\netstandard2.0\nacteniObrazku.dll
+C:\Users\forki\source\repos\nacteniObrazku\nacteniObrazku\bin\Debug\netstandard2.0\nacteniObrazku.pdb
+C:\Users\forki\source\repos\nacteniObrazku\nacteniObrazku\obj\Debug\netstandard2.0\nacteniObrazku.csproj.AssemblyReference.cache
+C:\Users\forki\source\repos\nacteniObrazku\nacteniObrazku\obj\Debug\netstandard2.0\nacteniObrazku.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\forki\source\repos\nacteniObrazku\nacteniObrazku\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\forki\source\repos\nacteniObrazku\nacteniObrazku\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\forki\source\repos\nacteniObrazku\nacteniObrazku\obj\Debug\netstandard2.0\nacteniObrazku.AssemblyInfoInputs.cache
+C:\Users\forki\source\repos\nacteniObrazku\nacteniObrazku\obj\Debug\netstandard2.0\nacteniObrazku.AssemblyInfo.cs
+C:\Users\forki\source\repos\nacteniObrazku\nacteniObrazku\obj\Debug\netstandard2.0\nacteniObrazku.csproj.CoreCompileInputs.cache
+C:\Users\forki\source\repos\nacteniObrazku\nacteniObrazku\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\forki\source\repos\nacteniObrazku\nacteniObrazku\obj\Debug\netstandard2.0\nacteniObrazku.dll
+C:\Users\forki\source\repos\nacteniObrazku\nacteniObrazku\obj\Debug\netstandard2.0\refint\nacteniObrazku.dll
+C:\Users\forki\source\repos\nacteniObrazku\nacteniObrazku\obj\Debug\netstandard2.0\nacteniObrazku.pdb
+C:\Users\forki\source\repos\nacteniObrazku\nacteniObrazku\obj\Debug\netstandard2.0\ref\nacteniObrazku.dll

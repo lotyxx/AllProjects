@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "1atIw6LflK5TMSrVntfsRjCNPi8KBN3CgEmx/kZ67P03Ri3fd5XGJvIKmePRVyyzRcnzpec8ioiEh/u4O7TaiQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\forki\\OneDrive\\Desktop\\playingCube\\nacteniObrazku\\nacteniObrazku.iOS\\nacteniObrazku.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\forki\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\forki\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\forki\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
